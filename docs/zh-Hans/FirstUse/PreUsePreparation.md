@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![](/img/FirstUse/PreUsePreparation/image-0.png)
 
-## 软件激活
+### 软件激活
 在`<许可证管理>`处，输入激活码（形如XXXX-XXXX-XXXX-XXXX），即可激活软件。 注意：如果重装系统，请务必重装前在软件内解绑激活码！
 
 ![](/img/FirstUse/PreUsePreparation/image-1.png)

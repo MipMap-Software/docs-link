@@ -3,6 +3,7 @@ import path from "node:path";
 import {fileURLToPath} from "node:url";
 import markdownItImageFigures from "markdown-it-image-figures";
 import {buildSidebarWithOptions} from "./sidebar";
+import lightbox from "vitepress-plugin-lightbox";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const docsRoot = path.resolve(__dirname, "..");
@@ -93,6 +94,7 @@ export default defineConfig({
         figcaption: false,
         classes: "block-image",
       });
+      md.use(lightbox, {});
     },
   },
   themeConfig: {
