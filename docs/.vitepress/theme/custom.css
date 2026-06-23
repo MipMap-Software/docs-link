@@ -68,6 +68,10 @@
   --vp-layout-max-width: 1800px;
 }
 
+.VPSidebarItem.is-link.is-active.has-active > .item .text {
+  color: white !important;
+}
+
 
 /* =========================
    右侧目录宽度缩小
