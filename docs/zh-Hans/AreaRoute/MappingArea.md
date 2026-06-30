@@ -15,7 +15,7 @@ sidebar_position: 1
 ### 2. 删除测区
 鼠标左键点击测区，使测区进入激活态，再点击回退键（BackSpace）或DELETE建即可删除测区
 
-![](/img/AreaRoute/MappingArea/image-1.png)![](/img/AreaRoute/MappingArea/image-1.gif)
+![](/img/AreaRoute/MappingArea/image-1.gif)
 
 ### 3. 编辑测区顶点
 鼠标左键点击测区，使测区进入激活态
