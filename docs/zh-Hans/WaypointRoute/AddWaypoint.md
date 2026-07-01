@@ -5,10 +5,12 @@ sidebar_position: 4
 点击右侧面板的![](/img/WaypointRoute/AddWaypoint/image-0.png)按钮可查看航点列表
 
 ### 1. 右键直接添加
-![](/img/WaypointRoute/AddWaypoint/image-1.png)![](/img/WaypointRoute/AddWaypoint/image-8.png)
+
+![](/img/WaypointRoute/AddWaypoint/image-1.png)
+
+![](/img/WaypointRoute/AddWaypoint/image-8.png)
 
 添加相对起飞点后，在地图上目标位置右键即可添加航点，直接添加的航点，**将使用全局设置参数**，后续可手动修改
-
 
 
 ### 2. 右键相对添加
