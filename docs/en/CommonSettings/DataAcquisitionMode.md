@@ -17,7 +17,7 @@ For consumer drones:
 :::tip
 Gimbals require time to capture photos (ranging from 0.3s/shot to 3s/shot). Combined with data overlap requirements, the maximum flight speed limit for both photo capture modes is determined by the gimbal’s fastest shooting speed.
 
-For video recording, the maximum flight speed limit is not affected by gimbal shooting speed. It is only determined by the frame extraction interval during data processing.
+Since capturing each photo takes time (ranging from 0.7 to 3 seconds per shot), and a certain data overlap is required, the maximum flight speed for both photo-based data collection methods is determined by the fastest photo capture rate.
 
-Link uses a default frame extraction interval of 0.1s. This allows the aircraft to fly at a higher speed and improves data acquisition efficiency, treating the gimbal as if it can capture one photo every 0.1 seconds.
+When recording video, the system assumes a fastest capture rate of 0.7 seconds per shot and uses this to determine the maximum flight speed.
 :::
